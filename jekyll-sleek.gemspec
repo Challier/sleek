@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jan Czizikow"]
   spec.email         = ["jan.czizikow@gmail.com"]
 
-  spec.summary       = %q{Sleek is a modern Jekyll theme focused on speed performance & SEO best practices.}
-  spec.homepage      = "https://janczizikow.github.io/sleek/"
+  spec.summary       = %q{Hi! I'm Victor, a Freelance Data Scientist. I code stuff and write things about it. Subscribe to my newsletter to get the freshest articles straight to your inbox!}
+  spec.homepage      = "https://challier.github.io/sleek/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select do |f|
